@@ -55,6 +55,7 @@ public class prac {
         list.addFirst(40);
         list.addFirst(50);
         list.addLast(60);
+        list.addLast(55);
         list.addLast(70);
         list.display(list.head);
 
